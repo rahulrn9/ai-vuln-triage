@@ -1,0 +1,14 @@
+
+# C++ build files
+*.o
+*.exe
+*.out
+
+# Configuration files
+config/config.json
+
+# Python
+*.pyc
+
+# Slack logs
+slack_logs/
